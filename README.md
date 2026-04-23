@@ -72,7 +72,7 @@ Toàn bộ hệ thống tạo thành một "vũ trụ liên kết" đa chiều, 
 
 ## 📸 Hình ảnh minh họa
 
-*(cập nhật sau)*
+<img width="600" height="620" alt="Tap_Hop_Con (1)" src="https://github.com/user-attachments/assets/24321bce-890e-4c1a-8886-e8ccf3620fb7" />
 
 
 ---
