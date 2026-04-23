@@ -102,6 +102,8 @@ Cảm ơn DeepSeek đã biến một khái niệm trừu tượng thành một t
 Mã nguồn mở, miễn phí sử dụng cho mục đích học tập và sáng tạo.
 
 ---
-  
-**Trợ lý AI:** DeepSeek  
+
 **Ngày hoàn thành:** 2026
+
+[DEMO]()
+[Trở về trang chủ](https://github.com/roboeinlife-glitch)
